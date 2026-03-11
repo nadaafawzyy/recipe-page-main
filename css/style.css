@@ -53,6 +53,7 @@ hr{
     font-size: 3rem;
     font-weight: 100;
     align-items: start;
+    flex-wrap: wrap;
 }
 h3{
     font-family:'Young Serif', serif;
@@ -164,3 +165,4 @@ footer a {
     }
 
 }
+
